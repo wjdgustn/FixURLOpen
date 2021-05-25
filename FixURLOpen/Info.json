@@ -1,0 +1,9 @@
+{
+  "Id": "FixURLOpen",
+  "DisplayName": "FixURLOpen",
+  "Author": "HYONSU",
+  "Version": "0.0.1",
+  "AssemblyName": "FixURLOpen.dll",
+  "EntryMethod": "FixURLOpen.Main.Load",
+  "Repository": ""
+}
